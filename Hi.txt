@@ -1,0 +1,5 @@
+git add
+Stages changes for commit.
+
+git add filename    # Stage a specific file
+git add .           # Stage all changes
