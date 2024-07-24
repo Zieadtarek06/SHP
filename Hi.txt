@@ -1,5 +1,4 @@
-git add
-Stages changes for commit.
-
-git add filename    # Stage a specific file
-git add .           # Stage all changes
+update ya sh2ee2
+123
+khalas updated
+456
